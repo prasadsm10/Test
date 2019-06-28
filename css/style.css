@@ -1,0 +1,373 @@
+
+/* body Start*/
+
+body
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+   font-family: Poppins, sans-serif;
+}
+
+/*Body End*/
+
+
+
+
+
+
+/*Top Section*/
+
+.logo img
+{
+
+   width:175px;
+   height: 42px;
+   margin-bottom: 10px;
+}
+
+.media i
+{
+	color: #f45600;
+	font-size: 24px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+ul li
+{
+	padding-right: 20px;
+	margin-top: 5px;
+	color:#fff;
+} 
+
+.sign-in-button a
+{
+              background-color: #060505;  
+              color: #fff; 
+              letter-spacing: 2px;
+              font-weight: bold; 
+}
+
+/*Top End */
+
+
+
+
+/*Menu Start*/
+
+.bg
+{
+	background-color:  #060505;
+	height: 55px;
+	width: auto;
+}
+
+
+/*Menu Close*/
+
+
+
+
+/*Bnnaer Star*/
+
+.jumbotron h4
+{
+	font-family: Poppins, sans-serif;
+	font-size: 22px;
+	padding-top: 80px;
+	color: #fff;
+}
+
+.jumbotron h1
+{
+	font-size: 68px;
+	font-weight: bold;
+	font-family: uni_sansheavy_caps, sans-serif;
+	color: #fff;
+}
+
+.jumbotron p
+{
+	font-family: Poppins, sans-serif;
+	font-size: 16px;
+	color: #fff;
+}
+
+.jumbotron button
+{
+	background-color: #f45600;
+	color: #fff;
+	border-radius: 25px;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+/*Banner close*/
+
+
+/*Feature Start*/
+
+
+.feature h1 
+{
+       font-size: 30px;
+       text-align: left;
+       font-weight: 700;
+       color:#fff;
+       padding-top:80px; 
+       margin-left: 100px;
+} 
+
+.feature h5
+{
+        color: #fff;
+        text-align: left;
+        margin-left: 100px;
+        margin-top: 20px;
+}
+
+.feature p
+{
+	color: #fff;
+	margin-left: 100px;
+	font-size: 14px;
+	margin-top: 10px;
+}
+
+.button1
+{
+	margin-left: 100px;
+	font-size: 18px;
+}
+
+.button1 
+{
+	border-radius: 25px;
+	padding: 12px;
+}
+
+.button2 
+{
+	border-radius: 25px;
+	padding: 12px;
+}
+/*Feature Close*/
+
+
+
+/*Theme Start*/
+
+.theme
+{
+	background-color: #f8f8f8;
+}
+
+
+.theme1 ul
+{
+	display: flex;
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: center;
+
+}
+
+
+
+.theme1 ul li
+{
+	list-style: none;
+	margin: 0 25px;
+		color:  #060505;
+}
+
+
+
+
+
+
+.card1 
+{
+	text-align: center;
+	border:1px solid  #060505;
+}
+.card1 ul
+{
+	display: flex;
+}
+
+.card1 ul li
+{
+	color: #f45600;
+	list-style: none;
+	padding: 0 10px;
+}
+
+
+.card2 ul
+{
+	display: flex;
+}
+
+.card2 ul li 
+{
+	list-style: none;
+	color:  #060505;
+	text-align: left;
+	
+}
+
+.card2 button
+{
+	background-color: #f45600;
+	color: #fff;
+	text-align: center;
+	margin:10px;
+}
+
+
+/*Theme Close*/
+
+
+
+/*Testimonial Start*/
+
+.testimonial
+{
+   background-color: #fff;
+}
+
+
+.client-text
+{
+	margin-left: 60px;
+}
+
+.client-text p
+{
+	font-size: 14px;
+	margin-left: 20px;
+}
+.client1 ul
+{
+	display: flex;
+}
+
+.client1 ul li
+{
+	list-style: none;
+	margin: 0 5px;
+}
+
+
+.client-text1 h4
+{
+	color: #fff;
+	margin-left: 20px;
+	font-weight: bold;
+	text-align: left;
+}
+
+.client-text1 p
+{
+	font-size: 12px;
+		margin-left: 20px;
+		text-align: left;
+}
+
+
+.input-group-append button
+{
+	background-color: #f45600;
+	color: #fff;
+}
+
+
+.client h4
+{
+	color: #fff;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.client p
+{
+		color: #fff;
+}
+
+
+/* Testimonial End*/
+
+
+/*Footer start*/
+.footer
+ {
+ 	color: #fff;
+ }
+
+.foot-text 
+{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 60px;
+	color: #fff;
+}
+
+.foot-text p
+{
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size: 12px;
+	color:#fff;
+}
+
+.foot-caption li 
+ {
+ 	list-style: none;
+	
+ }
+
+
+.social-menu ul
+{
+          display: flex;
+          
+}
+
+.social-menu ul li
+{
+	list-style: none;
+	
+}
+
+.social-menu ul li 
+{
+	font-size: 30px;
+	color: #fff;
+
+}
+.border
+{
+	width: 100%;
+	color:#060505;
+}
+
+
+.footer1
+{
+	text-align: center;
+
+}
+
+
+.footer1 p
+{
+	color:#fff;
+	font-size: 12px;
+	margin-top: 20px;
+     padding-bottom: 20px;
+	letter-spacing: 2px;
+}
+/*Footer End*/
